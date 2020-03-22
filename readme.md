@@ -15,6 +15,8 @@ Ethpaper is a simple Ethereum paper wallet generator with an option to specify c
 ## Install
 ```go get github.com/make0x20/ethpaper```
 
+or download it from the [release](https://github.com/make0x20/ethpaper/releases) page.
+
 ## Usage
 Help `ethpaper -h`: 
 ```
