@@ -4,6 +4,8 @@ Ethpaper is a simple Ethereum paper wallet generator with an option to specify c
 
 **Ethpaper has not been tested extensively and was created as a hobby project, use at your own risk when using with real Ethereum assets!**
 
+![alt text](assets/paper_wallet_template.png)
+
 ## Features
 
 - Option to specify your own 'template.png' image
